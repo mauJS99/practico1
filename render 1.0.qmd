@@ -1,0 +1,9 @@
+---
+title: "Practico 1"
+format: html
+editor: visual
+---
+
+Creado por: Mauricio Jara
+
+## Primera prueba de renderizado...
