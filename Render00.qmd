@@ -1,5 +1,6 @@
 ---
-title: "Practico 1"
+title: "Render00"
+author: "Mauricio"
 format: html
 editor: visual
 ---
