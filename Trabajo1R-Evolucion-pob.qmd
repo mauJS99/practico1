@@ -1,0 +1,18 @@
+---
+title: "Evolución de pobreza en el CHile rural"
+author: "Mauricio Jara Saavedra"
+format: html
+editor: visual
+bibliography: Trabajo1R-Evolucion-Pobreza-sectores-rurales.bib
+link-citations: true
+---
+
+# Variaciones en la evolución de la pobreza multidimensional en los sectores rurales de Chile.
+
+La pobreza en Chile ha sido un fenómeno que ha acompañado al desarrollo del país constantemente y la medición de esta se ha realizado de manera más formal y sistemática a partir de la aplicación de la Encuesta de Caracterización Socioeconómica Nacional (CASEN), la cual ha implementado la medición de la pobreza multidimensional a partir del año 2013 [@herreraPobrezaMultidimensionalChile], con el fin de aportar a una comprensión más amplia y detallada de las condiciones de vida de la población, implementando dimensiones como educación, salud, trabajo, vivienda y redes sociales.
+
+Ahora bien, si llevamos esta medición de la pobreza multidimensional a los sectores rurales, podremos ver como los indicadores multidimensionales nos permiten agudizar el análisis, permitiendo así obtener una información mas detallada de las condiciones de vida de las personas en los sectores rurales del país.
+
+Según un análisis comparativo de las carencias y brechas en los hogares rurales de Chile, se plantea que, a nivel general, las carencias se encuentran mas acentuadas en las zonas rurales y que estas se agudizan al utilizar indicadores multidimensionales para su medición. [@rodriguez-garcesReconfiguracionMapaPobreza2018] Por lo que llevar a cabo un análisis de la evolución de estos indicadores en comparación a sectores urbanos, nos proporcionará una información más detallada de las condiciones de vida de estos sectores.
+
+Por otro lado, cabe señalar que la relación entre educación, ruralidad y pobreza no es algo sencillo, y si consideramos el rol de la educación a la hora de reducir la brecha de desigualdades en las oportunidades, podremos observar que la educación para la población rural ha sido escasamente atendida. [@vera-bachmannResilienciaPobrezaRuralidad2015] Esto ha llevado a que la brecha de desigualdad social se mantenga en el país.
